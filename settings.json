@@ -1,0 +1,48 @@
+{
+  "workbench.colorTheme": "Rosé Pine",
+  "window.menuBarVisibility": "toggle",
+  "editor.fontSize": 14,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.verticalScrollbarSize": 0,
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "security.workspace.trust.startupPrompt": "never",
+  "security.workspace.trust.enabled": false,
+  "editor.fontFamily": "'Maple Mono', 'monospace', monospace",
+  "extensions.autoUpdate": false,
+  "terminal.external.linuxExec": "kitty",
+  "terminal.explorerKind": "both",
+  "terminal.sourceControlRepositoriesKind": "both",
+  "telemetry.telemetryLevel": "off",
+  "editor.mouseWheelZoom": true,
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "editor.formatOnSave": true,
+  "editor.indentSize": "2",
+  "[python]": {
+    "editor.indentSize": "tabSize",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+  "isort.args": ["--profile", "black"],
+  "files.autoSave": "onFocusChange",
+  "emmet.includeLanguages": {
+    "django-html": "html"
+  },
+  },
+  "catppuccin.accentColor": "lavender",
+  "catppuccin.bracketMode": "neovim",
+  "catppuccin.italicKeywords": false,
+  "workbench.iconTheme": "city-lights-icons-vsc-light",
+  "workbench.productIconTheme": "bootstrap-product-icons",
+  "randomThemeSwitcher.themeList": [
+    "Monokai",
+    "Catppuccin Mocha",
+    "Decay",
+    "Dark Decay",
+    "Decayce",
+    "One Dark Vivid",
+    "Rosé Pine",
+    "SynthWave '84",
+    "mono dark"
+  ]
+}
