@@ -14,10 +14,13 @@
   "terminal.sourceControlRepositoriesKind": "both",
   "telemetry.telemetryLevel": "off",
   "editor.mouseWheelZoom": true,
-  "editor.defaultFormatter": "ms-python.black-formatter",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
-  "editor.indentSize": "2",
+  "[html]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
   "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.indentSize": "tabSize",
     "editor.codeActionsOnSave": {
       "source.organizeImports": "explicit"
@@ -27,7 +30,6 @@
   "files.autoSave": "onFocusChange",
   "emmet.includeLanguages": {
     "django-html": "html"
-  },
   },
   "catppuccin.accentColor": "lavender",
   "catppuccin.bracketMode": "neovim",
@@ -43,6 +45,8 @@
     "One Dark Vivid",
     "Rosé Pine",
     "SynthWave '84",
-    "mono dark"
-  ]
+    "mono dark",
+    "Noctis Uva"
+  ],
+  "window.zoomLevel": 1
 }
