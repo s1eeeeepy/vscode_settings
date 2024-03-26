@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "Rosé Pine",
+  "workbench.colorTheme": "One Dark",
   "window.menuBarVisibility": "toggle",
   "editor.fontSize": 14,
   "editor.scrollbar.vertical": "hidden",
@@ -37,16 +37,18 @@
   "workbench.iconTheme": "city-lights-icons-vsc-light",
   "workbench.productIconTheme": "bootstrap-product-icons",
   "randomThemeSwitcher.themeList": [
-    "Monokai",
     "Catppuccin Mocha",
-    "Decay",
     "Dark Decay",
+    "Decay",
     "Decayce",
+    "Monokai",
+    "Noctis Uva",
+    "One Dark",
     "One Dark Vivid",
     "Rosé Pine",
     "SynthWave '84",
-    "mono dark",
-    "Noctis Uva"
+    "mono dark"
   ],
-  "window.zoomLevel": 1
+  "window.zoomLevel": 1,
+  "python.analysis.typeCheckingMode": "basic"
 }
