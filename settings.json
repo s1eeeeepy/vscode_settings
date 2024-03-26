@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "Noctis Uva",
+  "workbench.colorTheme": "One Dark",
   "window.menuBarVisibility": "toggle",
   "editor.fontSize": 14,
   "editor.scrollbar.vertical": "hidden",
@@ -16,13 +16,14 @@
   "editor.mouseWheelZoom": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
+  "editor.indentSize": "tabSize",
   "[html][django-html]": {
-    "editor.indentSize": 2,
+    "editor.indentSize": "tabSize",
     "editor.formatOnSave": false
   },
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter",
-    "editor.indentSize": "tabSize",
+    "editor.indentSize": 4,
     "editor.codeActionsOnSave": {
       "source.organizeImports": "explicit"
     }
@@ -52,5 +53,6 @@
   ],
   "window.zoomLevel": 1,
   "python.analysis.typeCheckingMode": "basic",
-  "editor.cursorSmoothCaretAnimation": "on"
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.tabSize": 2
 }
