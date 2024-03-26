@@ -51,5 +51,6 @@
     "mono dark"
   ],
   "window.zoomLevel": 1,
-  "python.analysis.typeCheckingMode": "basic"
+  "python.analysis.typeCheckingMode": "basic",
+  "editor.cursorSmoothCaretAnimation": "on"
 }
