@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "Decayce",
+  "workbench.colorTheme": "Rosé Pine",
   "window.menuBarVisibility": "toggle",
   "editor.fontSize": 14,
   "editor.scrollbar.vertical": "hidden",
@@ -37,7 +37,6 @@
   "catppuccin.accentColor": "lavender",
   "catppuccin.bracketMode": "neovim",
   "catppuccin.italicKeywords": false,
-  "workbench.iconTheme": "city-lights-icons-vsc-light",
   "workbench.productIconTheme": "bootstrap-product-icons",
   "randomThemeSwitcher.themeList": [
     "Catppuccin Mocha",
@@ -55,5 +54,13 @@
   "window.zoomLevel": 1,
   "python.analysis.typeCheckingMode": "basic",
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "symbols.hidesExplorerArrows": false,
+  "workbench.iconTheme": "city-lights-icons-vsc-light",
+  "editor.rulers": [72],
+  "workbench.colorCustomizations": {
+    "editorRuler.foreground": "#541e61"
+  }
 }
