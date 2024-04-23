@@ -17,9 +17,11 @@ mvllow.rose-pine
 oderwat.indent-rainbow
 robbowen.synthwave-vscode
 rubenverg.bootstrap-product-icons
+s-nlf-fh.glassit
 shd101wyy.markdown-preview-enhanced
 stepanvanzuriak.mono
 streetsidesoftware.code-spell-checker
+teabyii.ayu
 vscodevim.vim
 wayou.vscode-todo-highlight
 yummygum.city-lights-icon-vsc
