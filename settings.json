@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "Rosé Pine",
+  "workbench.colorTheme": "Ayu Dark Bordered",
   "window.menuBarVisibility": "toggle",
   "editor.fontSize": 14,
   "editor.scrollbar.vertical": "hidden",
@@ -39,6 +39,8 @@
   "catppuccin.italicKeywords": false,
   "workbench.productIconTheme": "bootstrap-product-icons",
   "randomThemeSwitcher.themeList": [
+    "Ayu Dark Bordered",
+    "Ayu Mirage",
     "Catppuccin Mocha",
     "Dark Decay",
     "Decay",
